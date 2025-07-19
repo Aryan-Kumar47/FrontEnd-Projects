@@ -2,11 +2,13 @@
 
 ## 🌐 Live Demo
 
-🚀 [Project - My portfolio 2025](https://aryankumarportfolio.vercel.app/)
-🚀 [Project - Gol. D Studio](https://gol-d-studio.vercel.app/)
-🚀 [Project - Vaidehi Sharma portfolio](https://vaidehisharma.vercel.app/)
-🚀 [Project - My portfolio 2024](https://aryankumarportfolio2024.vercel.app/)
-🚀 [Project - 3D slider](https://aryan-kumar47.github.io/3d-slider/)
+| Project                          | Live Link                                                                 |
+|----------------------------------|---------------------------------------------------------------------------|
+| My Portfolio 2025                | [🔗 View](https://aryankumarportfolio.vercel.app/)                        |
+| Gol. D Studio                    | [🔗 View](https://gol-d-studio.vercel.app/)                               |
+| Vaidehi Sharma Portfolio         | [🔗 View](https://vaidehisharma.vercel.app/)                              |
+| My Portfolio 2024                | [🔗 View](https://aryankumarportfolio2024.vercel.app/)                    |
+| 3D Slider                        | [🔗 View](https://aryan-kumar47.github.io/3d-slider/)                     |
 
 
 
